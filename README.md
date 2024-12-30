@@ -1,6 +1,4 @@
-NLP Coursework
-
-Trainina a model to understand longform and abbreviated text from accompanying identifier tokens.
+Training a model to understand longform and abbreviated text from accompanying identifier tokens.
 
 Examples of Data Analysis Results:
 
